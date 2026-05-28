@@ -193,36 +193,6 @@ Possible enhancements include:
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone (replace with your GitHub repository URL after creating the repo)
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-house_price_predictor.ipynb
-```
-
-and run all cells.
-
----
-
 ## Author
 
 Sneha Pandey
